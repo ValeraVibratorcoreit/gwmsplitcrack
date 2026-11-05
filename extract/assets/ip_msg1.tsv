@@ -1,0 +1,863 @@
+code	rowid	offset	icon	type	en
+117433	1	0		alarm	Danger! Please move away from the vehicle now!
+117690	2	0		alarm	Danger! Please stop the vehicle safely and move away from it!
+116919	3	0		alarm	Emergency Steering Support on
+117176	4	0		alarm	Automatic Emergency Steering on
+118461	5	0		alarm	Auto Emergent Brake activated
+118718	6	0		alarm	Auto Emergent Brake activated
+117947	7	0		alarm	Junction Brake Assist activated
+118204	8	0		alarm	Front Cross Traffic Braking activated
+119489	9	0		info	Rear Cross Traffic Braking activated
+119746	10	0		warn	Please apply the foot brake
+118975	11	0		alarm	Please brake
+119232	12	0		alarm	Please brake
+120517	13	0		warn	Please hold steering wheel
+120774	14	0		warn	Please hold steering wheel
+120003	15	0		warn	Please hold steering wheel
+120260	16	0		warn	Please hold steering wheel
+121545	17	0		warn	Maintain a safe distance
+121802	18	0		warn	Turn steering wheel gently
+121031	19	0		warn	Turn steering wheel gently
+121288	20	0		warn	Turn steering wheel gently
+122573	21	0		alarm	System off. Take control of the vehicle.
+122830	22	0		warn	Please look ahead
+122059	23	0		warn	Please look ahead
+122316	24	0		warn	Please look ahead
+123601	25	0		warn	Select gear P
+123858	26	0	img_notification_important_1c.png	warn	Front left door is open
+123087	27	0	img_notification_important_1d.png	warn	Front right door is open
+123344	28	0	img_notification_important_1e.png	warn	Rear left door is open
+124629	29	0	img_notification_important_1f.png	warn	Rear right door is open
+124886	30	0	img_notification_important_1b.png	warn	Trunk is open
+124115	31	0	img_notification_important_1a.png	warn	Hood is open
+124372	32	0	img_notification_important_1g.png	warn	Front left seatbelt unbuckled
+109209	33	0	img_notification_important_1h.png	warn	Front right seatbelt unbuckled
+109466	34	0	img_notification_important_1i.png	warn	Rear left seatbelt unbuckled
+108695	35	0	img_notification_important_1j.png	warn	Rear middle seatbelt unbuckled
+108952	36	0	img_notification_important_1k.png	warn	Rear right seatbelt unbuckled
+110237	37	0		alarm	Brake System fault, please stop safely
+110494	38	0		warn	Drive system is temporarily limited, please stop safely
+109723	39	0		info	CCO speed setting
+109980	40	0		info	CCO speed setting
+111265	41	0		info	CCO speed setting
+111522	42	0		info	CCO speed setting
+110751	43	0		info	CCO speed setting
+111008	44	0		info	CCO speed setting
+112293	45	0		info	CCO speed setting
+112550	46	0		info	CCO speed setting
+111779	47	0		info	CCO speed setting
+112036	48	0		info	Creeping mode speed setting
+113321	49	0		info	Creeping mode speed setting
+113578	50	0		info	Creeping mode speed setting
+112807	51	0		info	Creeping mode speed setting
+113064	52	0		info	Creeping mode speed setting
+114349	53	0		info	Creeping mode speed setting
+114606	54	0		info	Creeping mode speed setting
+113835	55	0		info	Creeping mode speed setting
+114092	56	0		info	Creeping mode speed setting
+115377	57	0		warn	Emergency Steering Support unavailable, watch out vehicles ahead
+115634	58	0		warn	Low tyre pressure
+114863	59	0		warn	Low tyre pressure
+115120	60	0		warn	Low tyre pressure
+116405	61	0		warn	Low tyre pressure
+116662	62	0		warn	Tyre temp. too High
+115891	63	0		warn	Tyre temp. too High
+116148	64	0		warn	Tyre temp. too High
+133881	65	0		warn	Tyre temp. too High
+134138	66	0		alarm	4WD fault, contact a service station
+133367	67	0		alarm	4WD system overheating, please stop safely
+133624	68	0		warn	Drive system is temporarily limited, please stop safely
+134909	69	0		warn	Vehicle collision, please contact a service station
+136194	70	0		warn	Traction battery fault, please contact a service station
+135423	71	0		warn	Traction battery system fault, please contact a garage for repairs
+135680	72	0		warn	Automatic Emergency Steering unavailable, watch out vehicles ahead
+136965	73	0		alarm	Gearbox overheating, stop safely
+137222	74	0		alarm	Power system fault
+136451	75	0		alarm	Gearbox fault, go to a service station
+136708	76	0		warn	Gearbox failed to shift into gear P
+137993	77	0		alarm	Low oil pressure, please check
+138250	78	0		alarm	Engine overheating, please stop safely
+137479	79	0		alarm	Gearbox overheating, Do not drive violently
+137736	80	0		alarm	Drive system fault, please contact a service station
+139021	81	0		warn	Drive system is temporarily limited, please contact a service station
+139278	82	0		alarm	Start system fault, please contact a service station
+138507	83	0		alarm	Engine system fault, please contact a service station
+138764	84	0		alarm	Fuel too low, engine cannot be started
+140049	85	0		alarm	Charger fault, please contact a service station
+140306	86	0		warn	Charging has stopped due to a charging system fault
+139535	87	0		warn	Charging has stopped due to a high charger temp.
+139792	88	0		warn	Charging has stopped due to a high traction battery temp.
+141077	89	0		warn	Charger output has fallen
+141334	90	0		warn	Front Cross Traffic Alert unavailable, watch out crossing vehicle
+140563	91	0		alarm	Gear N is engaged, unable to lock car
+140820	92	0		warn	Please note, the car is in Gear N
+125657	93	0		warn	The lights are not switched off
+125914	94	0		warn	Towing mode, Rear and Side Assist System disabled
+125143	95	0		warn	Forward Assist off during Towing mode
+125400	96	0		warn	Tunnel ahead. Proceed with caution.
+126685	97	0		warn	Fork ahead,grip the steering wheel
+126942	98	0		warn	Charging has stopped due to poor charging device connection
+126171	99	0		warn	Low traction battery temp., charging has stopped
+126428	100	0		warn	Charging has stopped due to insufficient input power at charging port
+127713	101	0		warn	Intelligent Front Camera is calibrating
+127970	102	0		alarm	Anti-theft authentication failed, please contact a service station
+127199	103	0		warn	Gearbox limited, go to a service station
+127456	104	0		warn	Gearbox locked in P, contact a garage
+128741	105	0		alarm	Unlock ESCL failed, turn steering wheel
+128998	106	0		alarm	Main engine pump fault, please repair ASAP
+128227	107	0		alarm	Active grill fault
+128484	108	0		warn	Please disconnect charging device
+129769	109	0		warn	Please connect charging device
+130026	110	0		warn	Low traction battery, charge immediately
+129255	111	0		warn	Please select gear P
+129512	112	0		warn	The vehicle must be stopped when in gear P
+130797	113	0		warn	Headlight fault
+131054	114	0		warn	At high speed do not select gear P
+130283	115	0		warn	Gear D Slope mode
+130540	116	0		warn	Gear P Slope mode
+131825	117	0		warn	Vehicle is powered up, do not fill up
+132082	118	0		info	Preparing to fill up
+131311	119	0		info	Launch Control activated
+131568	120	0		info	Launch Control mode activated
+132853	121	0		warn	Time-out protection
+133110	122	0		warn	Connected to charger, do not fill up
+132339	123	0		alarm	Fuel tank system fault, servicing required
+132596	124	0		warn	Filler cap is open, please check
+84537	125	0		warn	Particulate filter is being regenerated
+84794	126	0		warn	Particulate filter needs regenerating
+84023	127	0		warn	AWD is temporarily limited, please contact a service station
+84280	128	0		warn	Front axle system fault, please contact a service station
+85565	129	0		warn	Please don’t press on the accelerator and brake pedal simultaneously
+85822	130	0		alarm	Electronic gear shifter fault
+85051	131	0		warn	Transport mode
+85308	132	0		alarm	12V power supply system fault. Comfort function is off. Please contact a garage for repair!
+86593	133	0		warn	12V Power supply system fault, please stop the vehicle safely
+86850	134	0		alarm	12V charging system fault, please contact a service station
+86079	135	0		info	Excessive power consumption, entering power saving mode
+86336	136	0		warn	12V battery low, please start the vehicle
+87621	137	0		warn	Mode switching failed, please switch off and retry
+87878	138	0		warn	Charging is not allowed while filling up
+87107	139	0		warn	Please press down on the brake and press the unlock button when changing gears
+87364	140	0		warn	Apply the brake when changing gears
+88649	141	0		warn	Press unlock when changing gear
+88906	142	0		warn	High speed, unable to change gears
+88135	143	0		warn	Select gear P when the vehicle stops
+88392	144	0		warn	Please take a break
+89677	145	0		warn	Please take a break
+89934	146	0		warn	Please take a break
+89163	147	0		warn	Please focus on driving
+89420	148	0		warn	Please check the seat belt pretensioner
+90705	149	0		warn	Please check the front passenger seat belt pretensioner
+90962	150	0		warn	BSG system fault, please go to a garage for repair
+90191	151	0		warn	Enable in-situ exhaust self-cleaning
+90448	152	0		warn	Start the car and allow it to idle
+91733	153	0		warn	Particulate filter in self-cleaning mode
+91990	154	0		info	Self-cleaning is complete. Thank you for waiting
+91219	155	0		warn	Please engage gear P or gear N
+91476	156	0		warn	Rainproof shield not closed
+76313	157	0		warn	Low traction battery temp., please insert the charging gun to preheat
+76570	158	0		warn	Diesel exhaust fluid low, please refill
+75799	159	0		alarm	Diesel exhaust fluid very low, please refill
+76056	160	0		alarm	Diesel exhaust fluid tank empty, next start prohibited
+77341	161	0		warn	Sub-standard diesel exhaust fluid, have it checked
+77598	162	0		warn	Sub-standard diesel exhaust fluid, you have driven more than 50km
+76827	163	0		warn	Diesel exhaust fluid injection interrupted, have it checked
+77084	164	0		warn	Diesel exhaust fluid injection interrupted, you have driven more than 50km
+78369	165	0		alarm	Diesel exhaust fluid system prohibited engine start
+78626	166	0		alarm	Diesel exhaust fluid system fault, have it checked
+77855	167	0		alarm	Diesel exhaust fluid system fault, you have driven more than 50km
+78112	168	0		alarm	Diesel exhaust fluid system fault, next start prohibited
+79397	169	0		alarm	Engine needs to be started, pure EV mode is unavailable
+79654	170	0		info	Front wheels are now straight
+78883	171	0		warn	Front wheels aren’t straight, please turn steering wheel to the right
+79140	172	0		warn	Front wheels aren’t straight, please turn steering wheel to the left
+80425	173	0		warn	Please turn on UV disinfection and sterilization when no one is in the car
+80682	174	0		alarm	Danger! Concentrate while driving
+79911	175	0		alarm	Danger! Do not drive while tired
+80168	176	0		warn	Low traction battery temp., car cannot be driven; please wait, the car is preheating
+81453	177	0		info	Connected ok, discharging
+81710	178	0		info	Connected ok, discharging
+80939	179	0		warn	Engine and instrument VIN do not match
+81196	180	0		warn	Off-road Expert mode
+82738	181	0		warn	Hydrogen storage system is limited, please switch to electric mode
+81967	182	0		alarm	Hydrogen storage system fault, please switch to electric mode and stop safely
+82224	183	0		alarm	Hydrogen storage system fault, please stop safely
+83509	184	0		warn	Fuel cell system fault, please go to a garage for repair
+83766	185	0		warn	Fuel cell system fault, please go to a garage for repair
+82995	186	0		alarm	Hydrogen system fault, please go to a garage for repair
+83252	187	0		alarm	Hydrogen leak, please go to a garage for repair
+100985	188	0		alarm	Hydrogen leak, please switch to electric mode
+101242	189	0		alarm	Hydrogen leak, please switch to electric mode and stop safely
+100471	190	0		alarm	Hydrogen leak, please stop safely and get away from the car
+100728	191	0		warn	High coolant ion concentration, please go to a garage for repair
+102013	192	0		warn	Don’t forget your mobile phone
+102270	193	0		warn	HUD fault
+101499	194	0		warn	HUD overheating protection - display fault
+101756	195	0		info	Super Launch Control activated
+103041	196	0		info	Available traction battery output low, Normal Launch activated
+103298	197	0		alarm	Gearbox overheating, Normal Launch activated
+102527	198	0		alarm	Super Launch too many times, Normal Launch activated
+102784	199	0		warn	Traction battery temp. is too low, the car cannot be started
+104069	200	0		warn	Low traction battery temp., power is reduced
+104326	201	0		warn	High traction battery temp., power is reduced
+103555	202	0		warn	Insufficient screenwash, refill soon
+103812	203	0		warn	Change gears after gear learning is done
+105097	204	0		warn	Gear self-learning done, shift to drive
+105354	205	0		alarm	Available traction battery power low, pure EV mode unavailable
+104583	206	0		warn	You are drifting, control steering wheel
+104840	207	0		alarm	Rear axle system fault, AWD related modes are unavailable
+106125	208	0		alarm	Power supply relay error, please contact a service station
+106382	209	0		warn	You are going too fast, please drive safely
+105611	210	0		warn	You are going too fast, please drive safely
+105868	211	0		warn	You are going too fast, please drive safely
+107153	212	0		warn	Number plate light fault
+107410	213	0		warn	Reversing light fault
+106639	214	0		warn	Rear position light fault
+106896	215	0		warn	Laser assisted full beam lamp fault
+108181	216	0		warn	Check front view camera blocked or not
+108438	217	0		warn	Check forward radar blocked or not
+107667	218	0		warn	Check front corner radar blocked or not
+107924	219	0		warn	Emergency Lane Keeping is limited, please drive safely
+93018	220	0		warn	Lane Change Assist unable,do it manually
+92247	221	0		warn	Fast moving vehicle approaching behind
+92504	222	0		warn	Low speed voice prompt system fault, please contact a service station
+93789	223	0		warn	Brake light fault
+94046	224	0		warn	Rear fog light fault
+93275	225	0		warn	Optical rain-sensor fault
+93532	226	0		alarm	Adaptive Front Lighting System fault
+94817	227	0		warn	Intelligent Cruise unavailable
+95074	228	0		warn	Adaptive Cruise Control unavailable
+94303	229	0		warn	ESC is off, Forward Assist is disabled
+94560	230	0		warn	Traffic Sign Recognition is limited. Pay attention to the road speed limit
+95845	231	0		warn	Low 12V battery, reducing comfort power
+96102	232	0		warn	Auto Front Lamp Suspension Adjust fault
+96873	233	0		warn	Hill Descent Control is limited
+97130	234	0		warn	Automatic vehicle hold is limited
+96359	235	0		warn	Phone moved from wireless charging area or something in the area.
+96616	236	0		warn	Pixel headlight fault
+97901	237	0		warn	Pixel headlight camera fault
+98158	238	0		warn	Please reduce speed in 4L mode
+97387	239	0		warn	4WD system function degraded, please contact a service station
+97644	240	0		warn	4H mode, please slow down
+98929	241	0		warn	Low speed voice prompt system fault, please contact a service station
+99186	242	0		alarm	Traction battery is disconnected
+98415	243	0		warn	Motor fault, please contact a service station
+98672	244	0		alarm	12V charging system fault, please contact a service station
+99957	245	0		alarm	E-PARK fault, please contact a service station
+100214	246	0		warn	Please remove the charging gun
+99443	247	0		warn	Please remove the charging/discharging gun
+99700	248	0		alarm	Gear shifter fault, please contact a service station
+51641	249	0		warn	The vehicle is travelling too fast, unable to change gears
+51898	250	0		alarm	Park gear fault, please contact a service station
+51127	251	0		warn	Select gear P when the vehicle stops
+51384	252	0		warn	Gear cannot be changed while vehicle is charging
+52669	253	0		warn	Please apply the foot brake to change out of gear P
+52926	254	0		warn	Please apply the foot brake to change out of gear N
+52155	255	0		alarm	Battery fault
+52412	256	0		warn	Low battery, SPORT mode is unavailable
+53697	257	0		warn	Low battery, AC functions are limited
+53183	258	0		warn	Battery charge is high, E-PEDAL function is limited
+53440	259	0		warn	Drive system is temporarily limited, please contact a service station
+54982	260	0		warn	High-distance full beam assist fault
+54211	261	0		warn	Traction battery fault, please contact a service station
+54468	262	0		warn	Please replace the emergency calling system spare battery
+55753	263	0		warn	Low traction battery charge
+56010	264	0		warn	Suspension damping function is limited
+55239	265	0		warn	Already powered up, engage gear to drive
+55496	266	0		info	Ready to fill up
+56781	267	0		warn	Please check the key is in car
+57038	268	0		warn	Speed limit! switch to cruise?
+56267	269	0		warn	Brake+push START, shift to gear P/N
+56524	270	0		warn	Press clutch +push START,shift into N
+57809	271	0		warn	Press brake +push START,shift into N
+58066	272	0		warn	You are going too fast, slow down
+57295	273	0		info	Cruise setting {WRN_250} {WARNING_UNIT}
+59094	274	0		info	Parking light is on
+58323	275	0		warn	Please take a break
+58580	276	0		warn	Please take a break
+43417	277	0		warn	Please take your key
+43674	278	0		warn	Please fill up
+42903	279	0		info	Auto Front Lamp Suspension Adjust temporary driving mode
+43160	280	0		info	Auto Front Lamp Suspension Adjust temporary driving mode
+44445	281	0		warn	Please service the vehicle
+43931	282	0		warn	Please release the electronic parking brake
+44188	283	0		warn	Please slow down
+45473	284	0		warn	To switch to 4L mode, please stop
+45730	285	0		warn	To switch to 4L mode, please change to gear N
+44959	286	0		warn	Please exit 4L mode
+45216	287	0		warn	Please select 4L
+46501	288	0		warn	Please select 4H
+46758	289	0		warn	Please enter 4L mode
+45987	290	0		warn	Please enable off-road cruising function
+46244	291	0		info	NORMAL mode
+47529	292	0		info	SPORT mode
+47786	293	0		info	SNOW mode
+47015	294	0		info	MUD mode
+47272	295	0		info	SAND mode
+48557	296	0		info	4L mode
+48814	297	0		info	ECO mode
+48043	298	0		info	AUTO mode
+48300	299	0		info	SPORT+ mode
+49585	300	0		info	OFF ROAD mode
+49842	301	0		info	EXPERT mode
+49071	302	0		info	ROCK mode
+49328	303	0		info	POTHOLE mode
+50613	304	0		info	MUD/SAND mode
+50870	305	0		info	MOUNTAIN mode
+50099	306	0		info	NORMAL mode selected
+50356	307	0		info	SPORT mode selected
+68089	308	0		info	SPORT+ mode selected
+68346	309	0		info	SNOW mode selected
+67575	310	0		info	MUD mode selected
+67832	311	0		info	SAND mode selected
+69117	312	0		info	ECO mode selected
+69374	313	0		info	ROCK mode selected
+68603	314	0		info	POTHOLE mode selected
+68860	315	0		info	MUD/SAND mode selected
+70145	316	0		info	MOUNTAIN mode selected
+70402	317	0		info	EXPERT mode selected
+69631	318	0		info	OFF ROAD mode selected
+69888	319	0		info	4L mode selected
+71173	320	0		info	AUTO mode selected
+71430	321	0		warn	No D/R/P for NORMAL
+70659	322	0		warn	No D/R/P for SPORT
+70916	323	0		warn	No D/R/P for ECO
+72201	324	0		warn	No D/R/P for SNOW
+72458	325	0		warn	No D/R/P for MUD
+71687	326	0		warn	No D/R/P for SAND
+71944	327	0		warn	No D/R/P for POTHOLE
+73229	328	0		warn	No D/R/P for MOUNTAIN
+73486	329	0		warn	No D/R/P for ROCK
+72715	330	0		warn	No D/R/P for OFF ROAD
+72972	331	0		warn	No D/R/P for SPORT+
+74257	332	0		warn	No D/R/P for EXPERT
+74514	333	0		warn	No D/R/P for MUD/SAND
+73743	334	0		warn	No D/R/P for AUTO
+74000	335	0		warn	No D/R/P for 4L
+75285	336	0		warn	To switch to 4L mode, please stop and engage gear N
+75542	337	0		warn	Entering 4L mode, unable to engage gears D/R/P
+74771	338	0		warn	To exit 4L mode, please stop and engage gear N
+75028	339	0		warn	Exiting 4L mode, unable to engage gears D/R/P
+59865	340	0		warn	To switch to 4L mode, please stop and depress the clutch
+60122	341	0		warn	Switching to 4L mode, please do not release the clutch
+59351	342	0		warn	To exit 4L mode, please stop and depress the clutch
+59608	343	0		warn	Exiting 4L mode, please do not release the clutch
+60893	344	0		info	NORMAL mode
+61150	345	0		info	SPORT mode
+60379	346	0		info	SPORT+ mode
+60636	347	0		info	SNOW mode
+61921	348	0		info	MUD mode
+62178	349	0		info	SAND mode
+61407	350	0		info	ECO mode
+61664	351	0		info	4L mode
+62949	352	0		info	POTHOLE mode
+63206	353	0		info	MOUNTAIN mode
+62435	354	0		info	ROCK mode
+62692	355	0		info	OFF ROAD mode
+63977	356	0		info	EXPERT mode
+64234	357	0		info	AUTO mode
+63463	358	0		info	MUD/SAND mode
+63720	359	0		info	NORMAL mode activated
+65005	360	0		info	SPORT mode activated
+65262	361	0		info	ECO mode activated
+64491	362	0		info	SNOW mode activated
+64748	363	0		info	AUTO mode activated
+66033	364	0		info	E-PEDAL function activated
+66290	365	0		warn	E-PEDAL function has deactivated
+65519	366	0		warn	Car has not moved for a long time, press on brake, engage gear P
+65776	367	0		warn	Please switch off power supply
+67061	368	0		warn	Start-stop has deactivated, please start the vehicle manually
+67318	369	0		info	Charging device disconnected
+66547	370	0		warn	Low traction battery, EV mode is unavailable
+66804	371	0		warn	Hybrid system temporarily limited, AWD mode unavailable
+18745	372	0		alarm	Hybrid system temporarily limited, EV mode unavailable
+19002	373	0		warn	Hybrid system temporarily limited, SAVE mode unavailable
+18231	374	0		warn	A/C requests engine start, pure EV mode is unavailable
+18488	375	0		warn	Hybrid system temporarily limited, SAND mode unavailable
+19773	376	0		warn	Hybrid system temporarily limited, MUD mode unavailable
+20030	377	0		warn	Hybrid system temporarily limited, SNOW mode unavailable
+19259	378	0		info	NORMAL mode activated
+19516	379	0		info	EV mode activated
+20801	380	0		info	SAVE mode activated
+21058	381	0		info	SPORT mode activated
+20287	382	0		info	AWD mode activated
+20544	383	0		info	SNOW mode activated
+21829	384	0		info	MUD mode activated
+22086	385	0		info	SAND mode activated
+21315	386	0		info	ECO mode activated
+21572	387	0		info	SPORT+ mode activated
+22857	388	0		warn	Manual Gear Change is activated, the car has been switched to SPORT mode
+23114	389	0		warn	Manual Gear Change is activated, only SPORT mode is available
+22343	390	0		warn	Hybrid system restrictions lifted, EV mode is available
+22600	391	0		warn	ESP/AVH not switched off, Launch Control is unavailable
+23885	392	0		alarm	Powertrain error, Launch Control is unavailable
+24142	393	0		warn	Hybrid system temporarily limited, SPORT+ mode is unavailable
+23371	394	0		warn	Hybrid system temporarily limited, ECO mode is unavailable
+26198	395	0		warn	Please put on your seat-belt
+25427	396	0		warn	Gradient is too steep
+25684	397	0		alarm	Parking brake is overheating
+10521	398	0		warn	Insufficient clamping force
+10778	399	0		warn	Please press the brake pedal
+10007	400	0		warn	Please stop the vehicle to adjust settings
+10264	401	0		warn	The outdoor temp. is low, please slow down
+11549	402	0		warn	Adaptive Front Lighting System OFF
+11806	403	0		info	Adaptive Front Lighting System ON
+11035	404	0		warn	Not available in this mode
+11292	405	0		warn	Launch Control mode has deactivated
+12577	406	0		warn	Unable to trigger Launch Control mode
+12834	407	0		warn	Pixel headlight width indication not switched on, please set to on in centre console
+12063	408	0		info	Pixel headlight width indication on
+12320	409	0		warn	Pixel headlight width indication off
+13605	410	0		warn	Pixel headlight function off
+13862	411	0		info	Pixel headlight function on
+13348	412	0		info	Carwash/Towing mode activated
+14633	413	0		warn	You are going too fast, Carwash/Towing mode is unavailable
+14890	414	0		warn	Low battery, Carwash/Towing mode is unavailable
+14119	415	0		info	Charging/Discharging Gun is connected
+15661	416	0		warn	Please release the electronic parking brake
+15918	417	0		warn	Please release the rear axle differential lock
+15147	418	0		warn	ESC function is not turned off, Launch Control is unavailable
+15404	419	0		info	Traction battery preheating completed
+16689	420	0		info	Facial recognition cancelled
+16946	421	0		warn	Face match not found
+16175	422	0		info	Facial recognition function
+16432	423	0		alarm	Powertrain error, E-PEDAL unavailable
+17717	424	0		warn	SNOW mode triggered, E-PEDAL unavailable
+17974	425	0		info	High-distance full beam assist activated
+17203	426	0		warn	High-distance full beam assist deactivated
+17460	427	0		warn	Towing anti-swing function activated
+35193	428	0		info	Towing anti-swing is off
+35450	429	0		warn	4WD gear change delayed, please try to drive straight at low speed
+34679	430	0		warn	HUD brightness has been restricted
+34936	431	0		warn	Low traction battery energy/temp., Launch Control is unavailable
+36221	432	0		alarm	Lane Centring paused, take control of the steering wheel
+36478	433	0		alarm	Electrical Roll Control system fault, please repair immediately
+35707	434	0		info	Emergency Lane Keeping activated
+35964	435	0		alarm	Power-assisted steering function is limited, please take care when driving
+37249	436	0		warn	Electrical Roll Control system function limited, please contact a service station
+37506	437	0		warn	Low fuel in main tank, please fill up
+36735	438	0		warn	Low fuel in main tank. Turn off engine and switch to auxiliary tank
+36992	439	0		warn	Low fuel in auxiliary tank, please fill up
+38277	440	0		warn	Low fuel in auxiliary tank, turn off engine and switch to main tank
+38534	441	0		info	SUPER SPORT
+37763	442	0		info	RACE mode
+38020	443	0		info	GRASS/GRAVEL mode
+39305	444	0		info	UNEVEN mode
+39562	445	0		info	WADE mode
+38791	446	0		info	WADE mode
+39048	447	0		info	2H mode
+40333	448	0		info	4H mode
+40590	449	0		info	SUPER SPORT selected
+39819	450	0		info	RACE mode selected
+40076	451	0		info	GRASS/GRAVEL mode selected
+41361	452	0		info	UNEVEN mode selected
+41618	453	0		info	WADE mode selected
+40847	454	0		info	WADE mode selected
+41104	455	0		info	2H mode selected
+42389	456	0		info	4H mode selected
+42646	457	0		warn	No D/R/P for SUPER SPORT
+41875	458	0		warn	No D/R/P for RACE
+42132	459	0		warn	No D/R/P for GRASS/GRAVEL
+26969	460	0		warn	No D/R/P for UNEVEN
+27226	461	0		warn	No D/R/P for WADE
+26455	462	0		warn	No D/R/P for WADE
+26712	463	0		warn	No D/R/P for 2H
+27997	464	0		warn	No D/R/P for 4H
+28254	465	0		info	SUPER SPORT
+27483	466	0		info	RACE mode
+27740	467	0		info	GRASS/GRAVEL mode
+29025	468	0		info	UNEVEN mode
+29282	469	0		info	WADE mode
+28511	470	0		info	WADE mode
+28768	471	0		info	2H mode
+30053	472	0		info	4H mode
+29539	473	0		info	EV mode activated
+29796	474	0		info	CHARGE mode activated
+31081	475	0		info	NOH supported, you may use it on this road
+31338	476	0		warn	Get ready to take over, NOH will be deactivated after {$1$2}m
+30567	477	0		warn	NOH has deactivated
+32109	478	0		warn	Electrical Roll Control system off and deactivated
+32366	479	0		info	Off-road cooling mode is on
+31595	480	0		warn	Key positioning is abnormal, please contact a service station
+31852	481	0		info	Auto headlight is on
+33137	482	0		warn	Auto headlight is off
+33394	483	0		warn	Please exit WADE mode
+32623	484	0		warn	Please slow down
+32880	485	0		warn	Confirm surrounding conditions. If wading, start car carefully
+34165	486	0		warn	Long press the emergency power down switch to power down the whole vehicle!
+34422	487	0		alarm	Life detection function fault
+33651	488	0		alarm	Clutch is overheating
+33908	489	0		warn	Launch Control time-out
+249017	490	0		info	Life detection function is off
+249274	491	0		warn	Apply the brake + engage gear N + driver seat occupied or seat belt applied
+248503	492	0		warn	Apply the brake + engage gear P/N + driver seat occupied or seat belt applied
+248760	493	0		warn	Not available in this mode
+250045	494	0		info	INDIVIDUAL mode activated
+250302	495	0		alarm	Powertrain error, Launch Control is unavailable
+249531	496	0		warn	Currently in scheduled charging mode
+249788	497	0		warn	AWD mode, EV mode and energy storage mode are unavailable
+251073	498	0		warn	Maintain distance from vehicle ahead
+251330	499	0		warn	Give way to pedestrians
+250559	500	0		warn	Give way to pedestrians
+250816	501	0		warn	Give way to pedestrians
+252101	502	0		warn	Watch out oncoming vehicle
+252358	503	0		warn	Watch out, vehicles from the side
+251587	504	0		warn	Watch out, vehicles from the side
+251844	505	0		warn	Watch out, vehicles from the side
+253129	506	0		alarm	The vehicle ahead has braked suddenly
+253386	507	0		warn	Watch out, vehicle out of control ahead
+252615	508	0		warn	Watch out, vehicle out of control behind
+252872	509	0		warn	Watch out, vehicle out of control nearby
+254157	510	0		alarm	Trailer hitch fault, please check it
+254414	511	0		alarm	Air suspension function limited! Please repair ASAP
+253643	512	0		alarm	Air suspension fault! Please repair immediately
+253900	513	0		warn	Catalytic converter high sulphur content
+255185	514	0		warn	Removing sulphur
+255442	515	0		warn	Oil level too low
+254671	516	0		warn	Oil level too high
+254928	517	0		alarm	Oil level detection fault
+256213	518	0		warn	Don't change lane to the left
+256470	519	0		warn	Don't change lane to the right
+255699	520	0		warn	Don't overtake against the traffic
+240793	521	0		warn	Watch out, erratic car ahead
+241050	522	0		warn	Please give way to an emergency vehicle
+240279	523	0		warn	Please give way to a fire engine
+240536	524	0		warn	Please give way to an ambulance
+241821	525	0		warn	Please give way to a police vehicle
+242078	526	0		warn	Please give way to a rescue vehicle
+241307	527	0		warn	Watch out, vehicle in blind spot
+241564	528	0		warn	Watch out, vehicle in blind spot
+242849	529	0		warn	Watch out, vehicle in blind spot
+244134	530	0		warn	Low battery power, start the engine to change car height
+243363	531	0		warn	After the system cools down, the suspension will automatically adjust
+243620	532	0		warn	After exiting the suspension disable mode, height switching can be performed
+244905	533	0		warn	Close the door to complete height raising
+245162	534	0		warn	Enter Jack mode, Air Suspension is temporarily disabled
+244391	535	0		warn	Air Suspension is temporarily disabled
+244648	536	0		warn	Speed is high, unable to complete height switching
+246190	537	0		info	Trailer hitch is locked
+245419	538	0		info	Trailer hitch is unlocked
+246961	539	0		warn	Please switch to parked state first
+247218	540	0		warn	Please close the trailer hitch first
+246447	541	0		warn	Please check the trailer hitch connection
+246704	542	0		info	Normal height selected
+247989	543	0		info	EasyAccess height selected
+248246	544	0		info	Off road height 1 selected
+247475	545	0		info	Off road height2 selected
+247732	546	0		warn	Suspension enters extend mode
+265465	547	0		info	Suspension locked at EasyAccess height
+265722	548	0		info	Rear axle loading height selected
+264951	549	0		info	Auto EasyAccess mode selected
+265208	550	0		info	Air Suspension enables trailer mode
+266493	551	0		warn	Air Suspension temporarily disabled, tyre changing or raising
+266750	552	0		info	Kick to turn on rear axle loading mode selected
+265979	553	0		warn	Air Suspension temporarily disabled for car transportation
+266236	554	0		info	Suspension about to rise, exiting current low height
+267521	555	0		warn	Car currently in high position, please slow down
+267778	556	0		info	Sulphur removal completed
+267007	557	0		warn	System fault, adaptive energy recovery unavailable
+267264	558	0		warn	Sensor fault, adaptive energy recovery unavailable
+268549	559	0		warn	Intelligent driving function activated, adaptive energy recovery unavailable
+268806	560	0		warn	ESP function activated, adaptive energy recovery unavailable
+268035	561	0		warn	Exit adaptive energy recovery
+269834	562	0		warn	Support HEV mode only in current mode
+269063	563	0		alarm	Callipers overheating, Steering Assist function limited
+270605	564	0		warn	Slight traffic jam
+270862	565	0		warn	Moderate traffic jam
+270091	566	0		warn	Heavy traffic jam
+270348	567	0		warn	Traffic jam
+271890	568	0		warn	Apply the brake + engage gear N + driver seat occupied or seat belt applied
+271119	569	0		warn	Take control immediately
+271376	570	0		warn	Take control immediately
+272661	571	0		warn	Take control immediately
+272918	572	0		alarm	Auto braking, take control immediately
+272147	573	0		alarm	Pulling over, take control immediately
+272404	574	0		alarm	Emergency braking, take control ASAP
+257241	575	0		alarm	Failed to slip road, take control ASAP
+257498	576	0		alarm	Failed to main road, take control ASAP
+256727	577	0		alarm	Failed to main road, take control ASAP
+256984	578	0		alarm	Failed to main road, take control ASAP
+258269	579	0		alarm	Failed to turn, take control ASAP
+258526	580	0		alarm	Failed to turn, take control ASAP
+257755	581	0		alarm	Failed to turn, take control ASAP
+258012	582	0		alarm	Failed to toll station, take control ASAP
+259297	583	0		alarm	Failed to toll station, take control ASAP
+259554	584	0		alarm	Failed to toll station, take control ASAP
+258783	585	0		alarm	Failed to roundabout, take control ASAP
+259040	586	0		alarm	Failed to roundabout, take control ASAP
+260325	587	0		alarm	Failed to roundabout, take control ASAP
+260582	588	0		warn	Watch out, erratic car ahead
+259811	589	0		warn	Watch out, erratic car ahead
+260068	590	0		warn	Tight bend ahead, grip steering wheel
+261610	591	0		warn	NOH cannot be activated, go to a garage to repair
+260839	592	0		warn	NOH cannot be activated, please engage gear P and try again.
+261096	593	0		warn	Please manually enter slip road
+262381	594	0		warn	This is a bit difficult, I need your help.
+262638	595	0		alarm	Turn failed, please try manually
+261867	596	0		warn	Unable to navigate toll station successfully, please try manually
+262124	597	0		warn	Unable to navigate roundabout successfully, please try manually
+263409	598	0		warn	Route has been recalculated
+263666	599	0		warn	Complex traffic, please change lanes manually.
+262895	600	0		alarm	Failed to slip road, control steering wheel
+263152	601	0		alarm	Failed to slip road, control steering wheel
+264437	602	0		alarm	Failed to main road, control steering wheel
+264694	603	0		alarm	Failed to turn, control steering wheel
+263923	604	0		alarm	Failed to toll station, control steering wheel
+264180	605	0		alarm	Failed to roundabout, control steering wheel
+216121	606	0		warn	Intelligent Cruise unavailable
+216378	607	0		warn	Current speed under 40km/h, Lane Change Assist unavailable.
+215607	608	0		warn	Current speed exceeds 120km/h, Lane Change Assist unavailable.
+215864	609	0		warn	Unable to turn on the Intelligent Cruise system at the moment, please clean the camera
+217149	610	0		warn	Unable to turn on the Intelligent Cruise system at the moment, go to a garage to repair
+217406	611	0		warn	Phone moved from front wireless charging area or something in the area.
+216635	612	0		warn	Phone moved from rear wireless charging area or something in the area.
+216892	613	0		warn	Phone moved from Rear-Right wireless charging area or something in the area.
+218177	614	0		warn	Phone moved from Rear-Left wireless charging area or something in the area.
+218434	615	0		warn	NOH will be deactivated after {$1$2}m
+217663	616	0		warn	Release acceleration pedal for eco driving
+217920	617	0		warn	Slow down to a safe speed to take the bend
+219205	618	0		warn	NOH will be deactivated after {$1$2}m
+219462	619	0		warn	Get ready to take over, NOH will be deactivated after {$1$2}m
+218691	620	0		alarm	Take control immediately, NOH deactivated.
+218948	621	0		warn	If speed is higher than 125km/h, NOH will be deactivated
+220233	622	0		info	Car is entering the fast lane
+220490	623	0		warn	Entering slip road, please take care!
+219719	624	0		info	Cruise Control set to {$1$2}{WARNING_UNIT}
+219976	625	0		warn	Gear N locked, unable to shift
+221261	626	0		warn	Apply brakes gently to test braking
+221518	627	0		warn	Please select 4A/4H
+220747	628	0		alarm	Brake fluid level switch fault
+222546	629	0		warn	Shift your gear from P to release the handbrake.
+221775	630	0		info	MUD mode activated
+222032	631	0		info	SAND mode activated
+223317	632	0		info	SPORT+ mode activated
+223574	633	0		warn	To switch to 4L mode, please stop and depress the clutch
+222803	634	0		warn	Trunk board is open
+207640	635	0		warn	Watch out, water on the road ahead
+208925	636	0		warn	Watch out, subsidence ahead
+209182	637	0		warn	Watch out, the road is slippery ahead
+208411	638	0		warn	Watch out, there is a sharp bend ahead
+208668	639	0		warn	Watch out, there is an obstacle ahead
+209953	640	0		warn	Watch out, the road is uneven ahead
+210210	641	0		warn	Watch out, mountain road ahead
+209439	642	0		warn	Watch out, there is a mudslide ahead
+209696	643	0		warn	Watch out, there is a bridge ahead
+210981	644	0		warn	Watch out, there is a tunnel ahead
+211238	645	0		alarm	Please watch out, there is a fire ahead
+210467	646	0		warn	Please watch out, falling rocks ahead
+210724	647	0		warn	Please watch out, icy road ahead
+212009	648	0		warn	Watch out, crosswinds ahead
+212266	649	0		warn	Watch out, embankment ahead
+211495	650	0		warn	Please watch out, sharp S-bends ahead
+211752	651	0		warn	Please watch out, narrow road ahead
+213037	652	0		warn	Watch out, vehicles joining ahead
+213294	653	0		warn	Watch out, damage to facilities ahead
+212523	654	0		warn	Watch out, items in road ahead
+212780	655	0		info	NOH restored
+214065	656	0		warn	Roads merging ahead, beware of vehicles merging from the side
+214322	657	0		warn	Slowing down, preparing to turn off
+213551	658	0		warn	NOH deactivated, please take hold of the steering wheel
+213808	659	0		warn	Lane markings are not clear. Drive carefully
+215093	660	0		warn	4WD system temporarily locked to 4H
+215350	661	0		warn	Particulate filter is seriously blocked. Have it checked
+214836	662	0		warn	Speed too high, 4WD system temporarily unlocked
+232569	663	0		info	GPS speed control activated, watch your speed
+232826	664	0		warn	Pay attention and slow down
+232055	665	0		warn	60km/h zone ahead. Slow down
+232312	666	0		warn	70km/h zone ahead. Slow down
+233597	667	0		warn	80km/h zone ahead. Slow down
+233854	668	0		warn	90km/h zone ahead. Slow down
+233083	669	0		warn	100km/h zone ahead. Slow down
+233340	670	0		warn	110km/h zone ahead. Slow down
+234625	671	0		warn	120km/h zone ahead. Slow down
+234882	672	0		warn	Current speed exceeds GPS speed limit
+234111	673	0		warn	Speed limit! switch to cruise?
+234368	674	0		warn	Speed limit! switch to cruise?
+235653	675	0		info	Exiting main road soon
+235139	676	0		warn	Insufficient screenwash, refill soon
+235396	677	0		alarm	Low diesel exhaust fluid, starting not possible after {$1$2}{WARNING_UNIT}, refill it soon
+236681	678	0		alarm	Very low diesel exhaust fluid, starting not possible after {$1$2}{WARNING_UNIT}, refill it soon
+236938	679	0		alarm	Empty diesel exhaust fluid tank, unable to start next time, please refill
+236167	680	0		alarm	Empty diesel exhaust fluid tank unable to start, please refill
+236424	681	0		alarm	Sub-standard diesel exhaust fluid, starting not possible after {$1$2}{WARNING_UNIT}, please repair
+237709	682	0		alarm	Sub-standard diesel exhaust fluid, unable to start next time, please repair
+237966	683	0		alarm	Sub-standard diesel exhaust fluid, unable to start, please repair
+237195	684	0		alarm	Diesel exhaust fluid injection interrupted, unable to start after {$1$2}{WARNING_UNIT}, please repair
+237452	685	0		alarm	Diesel exhaust fluid injection interrupted, unable to start next time, please repair
+238737	686	0		alarm	Diesel exhaust fluid injection interrupted, unable to start, please repair
+238994	687	0		alarm	Diesel exhaust fluid consumption deviation, unable to start after {$1$2}{WARNING_UNIT}, please repair
+238223	688	0		alarm	Diesel exhaust fluid consumption deviation, unable to start next time, please repair
+238480	689	0		alarm	Diesel exhaust fluid consumption deviation, unable to start, please repair
+239765	690	0		warn	Close the bonnet and restart the vehicle.
+240022	691	0		warn	Close the fuel cap and restart the vehicle.
+239251	692	0		warn	Facial recognition failed
+224345	693	0		warn	Insufficient screenwash, refill soon
+224602	694	0		warn	Comfort braking deactivated
+223831	695	0		warn	If forced to switch to EV mode, there will be reduced traction battery power available
+224088	696	0		info	Successfully connected, currently discharging
+225373	697	0		info	Connection ok, no battery discharge
+225630	698	0		info	Automatic front wheel centring
+225116	699	0		warn	Emergency Call function limited
+226401	700	0		warn	Low traction battery, start the engine to discharge
+226658	701	0		alarm	Failed to activate discharge function
+225887	702	0		warn	Traction battery fault, please contact a service station
+227686	703	0		alarm	ETC system fault
+226915	704	0		warn	Discharge device removed
+228457	705	0		warn	Abnormal ETC
+228714	706	0		warn	This time {$1$2} Yuan spent.
+227943	707	0		warn	Cannot be unlocked in current terrain mode
+229485	708	0		alarm	Charger fault, please contact a service station
+229742	709	0		warn	Please disconnect charging/discharging device
+228971	710	0		warn	Low battery. System power will switch off after 3 minutes. Start the car!
+230770	711	0		warn	Door lock: can only be opened by using the emergency switch while driving. See user manual
+231027	712	0		info	Front wheels are now straight
+182711	713	0		alarm	12V power supply system fault. Comfort function is off. Please contact a garage for repair!
+182968	714	0		info	Excessive power consumption, entering power saving mode
+184253	715	0		warn	Low battery. System power will switch off after 3 minutes. Start the car!
+183739	716	0		warn	Low 12V battery, reducing comfort power
+186309	717	0		warn	Low traction battery, please start your car
+186566	718	0		warn	Low traction battery, please start your car or charge
+185795	719	0		warn	Driving Assistance activated. E-PEDAL unavailable.
+186052	720	0		warn	Intelligent Cruise deactivated, Emergency Brake Assist activated.
+188622	721	0		info	Preparing to fill up
+189650	722	0		alarm	Auto-braking take control!
+188879	723	0		info	Pulling over take control!
+175001	724	0		warn	Make a U-turn ahead, please take control in advance
+175258	725	0		info	Enter roundabout ahead, take control in advance
+174487	726	0		warn	Change route ahead manually, take control in advance
+176029	727	0		warn	Current speed under 80km/h, Lane Change Assist unavailable.
+179370	728	0		warn	Check rear corner radar blocked or not
+178599	729	0		warn	Rear and Side Assist System unavailable, watch out lateral rear vehicle
+178856	730	0		warn	Auto Emergent Brake unavailable, please drive safely
+180141	731	0		warn	Braking energy recovery unavailable
+180398	732	0		alarm	Intelligent Driving Controller overheating, please take control your car
+179627	733	0		alarm	Brake System overheating, do not brake continuously
+179884	734	0		alarm	Brake System fault, please stop safely
+181683	735	0		alarm	Intelligent Driving fault! Take control!
+199930	736	0		warn	Note: avoid non-motor vehicles
+199159	737	0		warn	Note: avoid non-motor vehicles
+200701	738	0		warn	Phone moved from driver wireless charging area or something in the area.
+200958	739	0		warn	Phone moved from front passenger wireless charging area or something in the area.
+193762	740	0		warn	6H mode, please slow down
+192991	741	0		warn	Please reduce speed in 6L mode
+194019	742	0		warn	Current speed under 60km/h, Lane Change Assist unavailable.
+195818	743	0		warn	To switch to 6L mode, please stop and engage gear N
+195047	744	0		warn	Entering 6L mode, unable to engage gears D/R/P
+195304	745	0		warn	To exit 6L mode, please stop and engage gear N
+196589	746	0		warn	Exiting 6L mode, unable to engage gears D/R/P
+198388	747	0		warn	Vehicle battery pack temperature high
+149815	748	0		warn	Low hydrogen level, please refill in time
+153413	749	0		warn	To complete the mode switch, please slow down
+153670	750	0		warn	Tow hitch operation failed. Please check
+152899	751	0		alarm	Back up brake system abnormal, please repair
+528633	752	0		alarm	Danger! Concentrate while driving
+528890	753	0		alarm	Danger! Do not drive while tired
+528119	754	0		info	Facial recognition cancelled
+528376	755	0		warn	Facial recognition failed
+529661	756	0		info	Facial recognition function
+529918	757	0		warn	Danger, pay attention to road
+529147	758	0		warn	Driver Monitor System degradation
+529404	759	0		alarm	Driver Monitor System fault
+472093	760	0		warn	Unable to identify stationary target
+472350	761	0		warn	Lane change timeout. Please switch off turn indicator.
+471579	762	0		warn	Lane Change Assist cancelled
+471836	763	0		warn	Lane change completed. Switch off the turn indicator.
+473378	764	0		warn	Failed to activate Adaptive Cruise Control
+472607	765	0		warn	Adaptive Cruise Control has deactivated
+472864	766	0		info	Adaptive Cruise Control activated, please stay focused
+474149	767	0		warn	Failed to activate Intelligent Cruise
+474406	768	0		warn	Intelligent Cruise deactivated
+473635	769	0		info	Intelligent Cruise activated
+473892	770	0		warn	Intelligent Cruise requires vehicle restart before use.
+475177	771	0		info	The vehicle ahead has started moving
+475434	772	0		info	The vehicle in front is moving, concentrate on the road
+474663	773	0		warn	The vehicle ahead has started moving, please stay focused
+474920	774	0		alarm	Vehicle in front has pulled away, please press on the accelerator
+476462	775	0		warn	Lane change on the left is not supported
+475691	776	0		warn	Lane change on the right is not supported
+477490	777	0		info	NOH activated
+476719	778	0		warn	Please move the lever to confirm changing to the left lane
+476976	779	0		warn	Please move the lever to confirm changing to the right lane
+478261	780	0		info	The vehicle is about to change lane to the left
+478518	781	0		info	The vehicle is about to change lane to the right
+477747	782	0		warn	There is a vehicle behind you. Wait a moment.
+478004	783	0		info	About to join the main carriageway
+495737	784	0		warn	Watch out, there’s a red light!
+495480	785	0		warn	Please engage gear P to activate Intelligent Cruise
+496765	786	0		alarm	Safe avoidance
+497022	787	0		info	About to overtake on the left
+496251	788	0		info	About to overtake on the right
+496508	789	0		warn	Roadworks ahead, please drive safely
+497793	790	0		warn	Large vehicles on the road, please watch out!
+498050	791	0		warn	It is very dark, please drive carefully!
+497279	792	0		warn	Road slippery with rain, please drive carefully!
+497536	793	0		warn	Lane change function can't be turned on now, try again later
+498821	794	0		warn	Unable to change lane yet, please try again later
+499078	795	0		alarm	It’s risky, don’t change lanes yet.
+498307	796	0		warn	Environmental conditions unsuitable, try again later.
+498564	797	0		warn	Stay alert and try to turn on again
+499849	798	0		warn	Keep your hands on the steering wheel and retry
+500106	799	0		warn	Securely fasten your seatbelt
+499335	800	0		warn	Please close the door
+499592	801	0		info	Rain mode activated
+500877	802	0		warn	Rain mode has deactivated
+501134	803	0		warn	Securely fasten passenger seatbelt.
+500363	804	0		warn	Speed limiting function ON. Cruise control cannot be activated.
+500620	805	0		warn	Pass the intersection? Press accelator gently.
+501905	806	0		warn	Restart and then try again
+502162	807	0		warn	Lane change function unavailable, please repair
+501391	808	0		warn	Intelligent Cruise deactivated for stepping on accelerator long time
+501648	809	0		warn	Intelligent Cruise deactivated for long time control of steering wheel
+502419	810	0		info	Release accelerator, speed control inhibited.
+502676	811	0		warn	Speed limit exceeded, please drive carefully
+487513	812	0		warn	Current lane change cannot be cancelled
+487770	813	0		warn	Bad weather, unable to enable Intelligent Cruise.
+486999	814	0		alarm	Intelligent Driving Controller overheating
+487256	815	0		alarm	Failed to activate NOH
+488541	816	0		info	NOH can be switched on
+488798	817	0		info	Switched to Intelligent Cruise
+488027	818	0		alarm	Bad weather, take control of your car.
+488284	819	0		warn	Lane change function disabled
+489569	820	0		info	Smart Speed Control is on
+489826	821	0		warn	NOH disabled
+489055	822	0		warn	Complex road ahead, drive carefully.
+489312	823	0		info	Turn left at the traffic light ahead, please concentrate
+490597	824	0		info	Go straight at the traffic light ahead, please concentrate
+490854	825	0		info	Turn right at the traffic light ahead, please concentrate
+490083	826	0		info	Make a U-turn at the traffic lights ahead, please concentrate
+490340	827	0		info	Traffic light vehicle control activated, please concentrate
+491625	828	0		warn	Traffic light vehicle control has deactivated
+491882	829	0		warn	Slow down at yellow light, be careful.
+491111	830	0		warn	Brake at red traffic light
+491368	831	0		info	Start at green traffic light
+492653	832	0		info	About to enter waiting area
+492910	833	0		info	About to drive straight ahead
+492139	834	0		info	About to drive straight ahead, please concentrate
+492396	835	0		info	About to turn left
+493681	836	0		info	About to turn left, please concentrate
+493938	837	0		info	About to turn right
+493167	838	0		info	About to turn right, please concentrate
+493424	839	0		alarm	Complex road ahead, take control of your car.
+494709	840	0		warn	This is more challenging, please take control your car
+494966	841	0		warn	Departing road section supporting traffic light vehicle control
+446393	842	0		info	About to cross a junction, please pay attention to the traffic lights
+446650	843	0		warn	Super Pilot has deactivated
+447421	844	0		warn	You have reached the highest speed setting
+447678	845	0		warn	You have reached the minimum speed setting
+446907	846	0		info	Steering wheel control restored
+447164	847	0		warn	Steering wheel control has deactivated
+448449	848	0		warn	Please turn off the turn indicator
+448706	849	0		warn	Speed is too high, unable to enable Intelligent Cruise.
+447935	850	0		alarm	Lane change failed, please try manually
+448192	851	0		warn	Route deviation, NOH has deactivated
+449477	852	0		warn	Serious speeding, Intelligent Cruise will be deactivated
+449734	853	0		warn	Rounding a bend, please grip the steering wheel
+450762	854	0		info	Active security setting will be turned on
+449991	855	0		info	Active security level will be improved
+450248	856	0		warn	Active security setting restored
+451533	857	0		warn	DMS degradation and suspend work
+451790	858	0		alarm	DMS failure and stop work
+451019	859	0		warn	Enable "Driver Identification" authorization switch first
+451276	860	0		info	Active speed limit enabled, exiting cruise.
+452561	861	0		info	Cruise enabled, exiting active speed limit.
+452818	862	0		warn	Please check the key is in car

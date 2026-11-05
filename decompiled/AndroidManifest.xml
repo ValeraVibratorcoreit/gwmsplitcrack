@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="6261015" android:versionName="6261015" android:compileSdkVersion="35" android:compileSdkVersionCodename="15" package="com.altaysoft.t500_split" platformBuildVersionCode="35" platformBuildVersionName="15">
+  <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="34"/>
+  <uses-permission-sdk-23 android:name="android.permission.QUERY_ALL_PACKAGES"/>
+  <uses-permission android:name="com.gwm.android.adapter.permission.GET_DATA"/>
+  <uses-permission android:name="com.gwm.android.adapter.permission.SET_DATA"/>
+  <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+  <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <uses-permission android:name="android.permission.REORDER_TASKS"/>
+  <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+  <permission android:name="com.altaysoft.permission.READ_STATE" android:protectionLevel="0x00000002"/>
+  <permission android:name="com.altaysoft.t500_split.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="0x00000002"/>
+  <uses-permission android:name="com.altaysoft.t500_split.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+  <application android:theme="@7F140279" android:label="@7F13002C" android:icon="@7F0800D7" android:allowBackup="true" android:supportsRtl="true" android:extractNativeLibs="false" android:fullBackupContent="@7F160001" android:usesCleartextTraffic="true" android:resizeableActivity="true" android:roundIcon="@7F0800D7" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@7F160002">
+    <activity android:name="com.altaysoft.t500_split.Help" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.OssLicensesActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.ClimateTestActivity" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.TopOverlayService" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.InternetMonitoringService" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.media.MediaInfoService" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.media.MediaNotificationListenerService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" android:exported="false">
+      <intent-filter>
+        <action android:name="android.service.notification.NotificationListenerService"/>
+      </intent-filter>
+    </service>
+    <service android:name="com.altaysoft.t500_split.IPOverlayService" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.FloatingWindowService_BackBtn" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.FloatingWindowService_NaviBtn" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.FloatingWindowService_PIPBtn" android:enabled="true" android:exported="false"/>
+    <service android:name="com.altaysoft.t500_split.MyAccessibilityService" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" android:exported="false">
+      <intent-filter>
+        <action android:name="android.accessibilityservice.AccessibilityService"/>
+      </intent-filter>
+      <meta-data android:name="android.accessibilityservice" android:resource="@7F160000"/>
+    </service>
+    <provider android:name="androidx.core.content.FileProvider" android:exported="false" android:authorities="DMPTools.provider" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@7F160003"/>
+    </provider>
+    <provider android:name="com.altaysoft.t500_split.SplitLicenseProvider" android:readPermission="com.altaysoft.permission.READ_STATE" android:exported="true" android:authorities="com.altaysoft.t500_split.state"/>
+    <activity android:name="com.altaysoft.t500_split.Pay" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.configActivity.CFG4" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.voice.VoiceSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.DriveModeSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.AutoBrightnessSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.AutoPresetSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.YmSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.IpMessagesSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.SplitInfoSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.SplitBallSettingsActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.LauncherBackGround" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.AppsList" android:exported="false" android:launchMode="2"/>
+    <activity android:theme="@7F140279" android:name="com.altaysoft.t500_split.splitinfo.WeatherFullscreenActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:theme="@7F140279" android:name="com.altaysoft.t500_split.splitinfo.ChartsFullscreenActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.reminders.RemindersActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.stats.StatisticsActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.userthemes.UserThemeSlotsActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.userthemes.UserThemeImportActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.userthemes.UserThemeHelpActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.stats.TripsActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.stats.RefuelsActivity" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.stats.StatsHelpActivity" android:exported="false"/>
+    <activity android:name="com.altaysoft.t500_split.IP" android:exported="false" android:launchMode="2"/>
+    <activity android:name="com.altaysoft.t500_split.Top" android:exported="false" android:launchMode="2" android:resizeableActivity="true"/>
+    <activity android:name="com.altaysoft.t500_split.MainActivity" android:exported="true" android:resizeableActivity="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity android:name="com.altaysoft.t500_split.Launcher" android:exported="true" android:resizeableActivity="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.HOME"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+    <receiver android:name="com.altaysoft.t500_split.EditPpBridgeReceiver" android:exported="true">
+      <intent-filter>
+        <action android:name="com.altaysoft.t500_split.action.EDIT_PP_PAUSE"/>
+        <action android:name="com.altaysoft.t500_split.action.EDIT_PP_RESUME"/>
+      </intent-filter>
+    </receiver>
+    <receiver android:name="com.altaysoft.t500_split.BootCompletedReceiver" android:exported="false">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED"/>
+      </intent-filter>
+    </receiver>
+    <receiver android:name="com.altaysoft.t500_split.CallReciever" android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.PHONE_STATE"/>
+      </intent-filter>
+    </receiver>
+    <provider android:name="androidx.startup.InitializationProvider" android:exported="false" android:authorities="com.altaysoft.t500_split.androidx-startup">
+      <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+      <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+      <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup"/>
+    </provider>
+    <uses-library android:name="androidx.window.extensions" android:required="false"/>
+    <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+    <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
